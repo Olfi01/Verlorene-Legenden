@@ -1,3 +1,3 @@
 Grundwerte: Körperkraft (Kk), Intelligenz (In), Konstitution (Ko), Beweglichkeit (Be), Feinmotorik (Fm), Charisma (Ch)
 Lebensenergie (LE), Astralenergie (bisher keine Abkürzung, besserer Name gesucht), Ausdauer (Abk. fehlt)
-Wahrnehmungswerte: Sehen (Se), Hören (Hö), Spüren (Sp), Riechen/schmecken (RiSm, bessere Abkürzung willkommen)
+Wahrnehmungswerte: Sehen (Se), Hören (Hö), Spüren (Sp), Riechen/schmecken (RiSm, bessere Abkürzung willkommen!)
