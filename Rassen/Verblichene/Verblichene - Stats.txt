@@ -1,2 +1,2 @@
-Boni: Int + 10
+﻿Boni: Int + 10
 Mali: Kk = 0, LE = 0, Ch - 10

@@ -1,2 +1,2 @@
-Boni: In + 10, Fm + 30, Se + 10
+﻿Boni: In + 10, Fm + 30, Se + 10
 Mali: Kk - 20, Ko - 20, RiSm - 10

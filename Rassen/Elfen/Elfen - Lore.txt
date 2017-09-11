@@ -1,2 +1,2 @@
-Singular: Elf, Elfe
-Dominanteste Spezies (nicht h�ufigste, das sind die Feen)
+﻿Singular: Elf, Elfe
+Dominanteste Spezies (nicht häufigste, das sind die Feen)

@@ -1,2 +1,2 @@
-Boni: Die H�lfte der Boni der aktuellen Gestalt.
+﻿Boni: Die Hälfte der Boni der aktuellen Gestalt.
 Mali: Die vollen Mali der aktuellen Gestalt.

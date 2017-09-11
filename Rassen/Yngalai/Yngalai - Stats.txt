@@ -1,2 +1,2 @@
-Boni: Ch + 10, In + 20, Ko + 10
+﻿Boni: Ch + 10, In + 20, Ko + 10
 Mali: Be - 20, Fm - 20
