@@ -1,0 +1,2 @@
+Boni: Kk + 20, Ko + 40
+Mali: In - 10, Be - 20, Fm - 30
